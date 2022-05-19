@@ -1,0 +1,15 @@
+{
+  "name": "backend_development",
+  "version": "1.0.0",
+  "description": "Backend development using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Forhan Shahriar Fahim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
